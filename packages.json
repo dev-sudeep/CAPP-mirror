@@ -6,6 +6,15 @@
       "filename": "C_hello.capp",
       "author": "dev-sudeep",
       "description": "Prints a friendly greeting in the terminal!"
+    },
+    {
+      "name" : "uno",
+      "author" : "dev-sudeep",
+      "version" : "2.0.0",
+      "filename" : "uno-2.0.0.capp",
+      "description" : "A small terminal editor",
+      "homepage" : "https://github.com/dev-sudeep/uno",
+      "license" : "MIT"
     }
   ]
 }
